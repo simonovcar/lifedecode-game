@@ -14,7 +14,7 @@
 
   const GAME_W = 960;
   const GAME_H = 640;
-  const ASSET_BASE = "https://cdn.jsdelivr.net/gh/simonovcar/lifedecode-assets@main/assets";
+  const ASSET_BASE = "https://cdn.jsdelivr.net/gh/simonovcar/lifedecode-game@main/assets";
 
   const SCENES = {
     PLAZA: "plaza",
